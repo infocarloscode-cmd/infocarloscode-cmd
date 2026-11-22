@@ -11,7 +11,7 @@ I'm a full-stack developer from Venezuela. I build software that small businesse
 
 **Stack:** TypeScript · React · Next.js · Node.js · Rust · PostgreSQL · Supabase · Firebase · Tailwind CSS · GitHub Actions
 
-**Contact:** [info.carloscode@gmail.com](mailto:info.carloscode@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carlos-gomez-b41737421/)
+**More about me:** [infocarloscode-cmd.github.io](https://infocarloscode-cmd.github.io/hire.html) · [info.carloscode@gmail.com](mailto:info.carloscode@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carlos-gomez-b41737421/)
 
 ---
 
